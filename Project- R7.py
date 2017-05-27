@@ -222,7 +222,7 @@ def main():
         neutweetstk.mainloop()
         
     except Exception:
-        easygui.msgbox("***** Error ***** \n\n No tweets found with " + guitopic + " Tag " ,'Error')
+        easygui.msgbox("\n No tweets found with " + guitopic + " Tag " ,'Error')
         
 if __name__ == "__main__":
     # calling main function
