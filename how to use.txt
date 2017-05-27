@@ -1,0 +1,16 @@
+
+This whole Program is built on python 2.7
+
+It consists of many modules and it runs mainly based on textblob 
+in order to run the program you need to install the following packages
+
+1.NLTK
+2.TextBlob
+3.Tkinter
+4.Easygui
+5.Tweepy
+6.Matplotlib
+
+Make sure you installed all the Modules before running the program
+
+***It is important to create an Twitter App and get the Consumer keys and Access Keys, later filled them in the keys.py file***
